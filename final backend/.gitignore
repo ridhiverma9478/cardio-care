@@ -1,0 +1,10 @@
+/venv
+*.sqlite3
+*.log
+local_settings.py
+db.sqlite3
+staticfiles/
+*.pycache/
+*.pyc
+/backend/venv
+backend/db.sqlite3

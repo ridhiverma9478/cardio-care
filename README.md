@@ -34,7 +34,7 @@ The platform includes a *responsive frontend, **dynamic backend, **admin dashboa
 ## *Folder Structure*
 
 git clone https://github.com/ridhiverma9478/cardio-care.git
-cd VibeCrafters
+cd cardio-care
 
 2. Backend Setup (Django + Node.js)
 	1.	Navigate to the backend folder:
@@ -65,9 +65,7 @@ Backend server will run at: http://localhost:8000
 4. Usage
 	•	Open http://localhost:3000 in your browser
 	•	Register/login as a user or admin
-	•	Create, manage, and register for events
-	•	Make payments through Razorpay (test mode available)
-	•	Check email notifications for registration confirmations
+    
 
 
 

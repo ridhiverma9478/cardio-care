@@ -33,7 +33,7 @@ The platform includes a *responsive frontend, **dynamic backend, **admin dashboa
 
 ## *Folder Structure*
 
-git clone https://github.com/YourUsername/VibeCrafters.git
+git clone https://github.com/ridhiverma9478/cardio-care.git
 cd VibeCrafters
 
 2. Backend Setup (Django + Node.js)
